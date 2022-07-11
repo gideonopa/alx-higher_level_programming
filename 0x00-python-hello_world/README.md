@@ -1,4 +1,4 @@
-# 0x00. Python - Hello, World
+# Python - Hello, World
 
 Task:
 0. Write a Shell script that runs a Python script.
@@ -97,4 +97,4 @@ The Python file name will be stored in the environment variable $PYFILE
 
 The output filename has to be $PYFILEc (ex: export PYFILE=my_main.py => output filename: my_main.pyc)
 
-13. Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode 
+13. Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
