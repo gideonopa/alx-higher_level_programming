@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-# Holberton school
+alx-higher_level_programming
